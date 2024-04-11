@@ -1,30 +1,30 @@
 ---
 user-guide-title: AEM スキルビルダー
-user-guide-description: ナレッジベースを構築し、Adobeへの投資を最大限に活かすための録画ウェビナーシリーズ [!DNL Experience Manager].
+user-guide-description: ナレッジベースを構築し、Adobe  [!DNL Experience Manager] への投資を最大化する録画ウェビナーシリーズ。
 source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 
-# AEM Skill Builder の記録{#skill-builder}
+# AEM スキルビルダーの録画{#skill-builder}
 
-* [AEM Skill Builder の記録](overview.md)
-* 2019年 {#2019}
-   * [を使用したベストプラクティスのテスト [!DNL Cloud Manager]](./2019/cloud-manager-testing.md)
-* 2020 {#2020}
+* [AEM スキルビルダーの録画](overview.md)
+* 2019年度 {#2019}
+   * [ [!DNL Cloud Manager] を使用したベストプラクティスのテスト](./2019/cloud-manager-testing.md)
+* 2020年度 {#2020}
    * [[!DNL Asset Link]](./2020/asset-link.md)
    * [Brand Portal](./2020/brand-portal.md)
    * [[!DNL Dynamic Media]](./2020/dynamic-media.md)
    * [フォルダー構造と検索](./2020/folder-structure-search.md)
    * [メタデータ](./2020/metadata.md)
 * 2021年度 {#2021}
-   * [オーサリングの基本](./2021/authoring-fundamentals.md)
-   * [Media Library政権](./2021/media-library-administration.md)
-   * [共同作業ツール](./2021/collaboration-tools.md)
-   * [Omnichannel エクスペリエンス](./2021/omnichannel-experiences.md)
+   * [オーサリングの基本事項](./2021/authoring-fundamentals.md)
+   * [Media Library の管理](./2021/media-library-administration.md)
+   * [共同作業 ツール](./2021/collaboration-tools.md)
+   * [オムニチャネルエクスペリエンス](./2021/omnichannel-experiences.md)
    * [MSM と翻訳](./2021/multi-site-management-web-translation.md)
    * [コンテンツ管理](./2021/traditional-headless-content-management.md)
 

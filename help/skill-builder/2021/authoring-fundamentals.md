@@ -1,6 +1,6 @@
 ---
-title: 美しい Web エクスペリエンスを素早く作成
-description: ページをすばやく作成および編集するためのオーサリングの基本とスキルを学ぶ
+title: 美しい web エクスペリエンスを迅速に作成
+description: ページを迅速に作成および編集するオーサリングの基礎とスキルについて説明します。
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -13,26 +13,26 @@ type: Event
 kt: 8945
 exl-id: cc4b57a5-c76a-48fa-9c05-39374081fc45
 source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe [!DNL Experience Manager Sites] 基本
+# Adobe [!DNL Experience Manager Sites] の基本
 
-Adobe Experience Managerで豊かで魅力的な顧客体験を作成する方法については、5 部構成のウェビナーシリーズをご覧ください。 まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。 これには、サイト管理機能、およびAEM内でのデジタルアセット処理の基本事項が含まれます。 このシリーズの後半部では、コンテンツを再利用して複数のチャネルにわたって配信することで、時間を節約し、より効率的な機能を見つけ出します。
+この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。これには、Sites 管理機能および AEM 内でのデジタルアセット処理の基本事項が含まれます。このシリーズの後半部では、コンテンツを再利用して複数のチャネルにわたって配信することで、時間を節約し、効率を高めるのに役立つ機能を確認します。
 
-## 美しい Web エクスペリエンスを素早く作成
+## 美しい web エクスペリエンスを迅速に作成
 
 >[!VIDEO](https://video.tv.adobe.com/v/337014/?quality=12&learn=on&hidetitle=true)
 
-ページをすばやく作成および編集するための、オーサリングの基本とスキルを学びます。
+ページを迅速に作成および編集するオーサリングの基礎とスキルについて説明します。
 
 ## シリーズの録画
 
 * [コンテンツの検索に時間を無駄にしない](media-library-administration.md)
 * [常に変化するコンテンツを容易に管理](collaboration-tools.md)
-* [ANYWHERE 向けコンテンツ：オムニチャネルエクスペリエンスの実現](omnichannel-experiences.md)
-* [Go Global with Adobe Experience Manager](multi-site-management-web-translation.md)
-* [Web とその他 — 従来のヘッドレスコンテンツ管理の力](traditional-headless-content-management.md)
+* [どこでも使えるコンテンツ：オムニチャネルエクスペリエンスの実現](omnichannel-experiences.md)
+* [Adobe Experience Manager でグローバル化](multi-site-management-web-translation.md)
+* [Web とその他 - 従来のヘッドレスコンテンツ管理の力](traditional-headless-content-management.md)
