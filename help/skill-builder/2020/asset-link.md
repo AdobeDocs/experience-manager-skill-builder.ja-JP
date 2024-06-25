@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 57%
 
 ---
 
 # [!DNL Asset Link] - Adobe [!DNL Experience Manager Assets] シリーズ
 
-この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用してください。Adobe [!DNL Experience Manager Assets] を初めて使用する実務担当者、Adobe [!DNL Experience Manager Assets] をしばらくの間使用していて、既存のスキルを磨きたいと考えている場合、これはソリューションの最も重要な 5 つの領域を詳しく理解するのに理想的な方法です。アドビのエキスパートが基本事項を確認し、すぐに実行できる次のステップにつながる高度なインサイトも提供します。
+この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用してください。Adobeで初めて、または経験した [!DNL Experience Manager Assets]? その 5 つの主な機能を詳しく調べて、スキルを完璧に発揮してください。 専門知識を効率的に向上 Adobeのエキスパートが基本を確認し、高度なインサイトを提供することで、すぐに実践できる実用的な次のステップを提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
@@ -29,10 +29,10 @@ ht-degree: 100%
 
 ## リソース
 
-* [Adobe  [!DNL Asset Link]  ビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=ja)
-* [[!DNL Asset Link] （Adobe XD 用）](https://helpx.adobe.com/jp/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [Adobe  [!DNL Asset Link]  ビデオ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [[!DNL Asset Link] （Adobe XD 用）](https://helpx.adobe.com/jp/enterprise/using/adobe-asset-link-for-xd.html)
 * [Adobe  [!DNL Asset Link] 用  [!DNL AEM Assets]  6.5 および 6.4 の設定](https://helpx.adobe.com/jp/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Adobe  [!DNL Asset Link] 用  [!DNL AEM as a Cloud Service]  の設定](https://helpx.adobe.com/jp/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Adobe  [!DNL Asset Link] 用  [!DNL AEM as a Cloud Service]  の設定](https://helpx.adobe.com/jp/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## シリーズの録画
 

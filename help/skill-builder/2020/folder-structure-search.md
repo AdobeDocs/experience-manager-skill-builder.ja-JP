@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '168'
-ht-degree: 100%
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+workflow-type: tm+mt
+source-wordcount: '143'
+ht-degree: 62%
 
 ---
 
 # フォルダー構造と検索 - Adobe [!DNL Experience Manager Assets] シリーズ
 
-この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用しましょう。Adobe [!DNL Experience Manager Assets] を初めて使用する実務担当者、または Adobe [!DNL Experience Manager Assets] をしばらく使用していて、既存のスキルを磨きたいと考えている場合、これはソリューションの最も重要な 5 つの領域を詳しく理解するのに理想的な方法です。アドビの専門家が基本事項を確認し、高度なインサイトを提供します。これにより、すぐに実行できる実用的な次の手順が提供されます。
+この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用しましょう。Adobeを初めて使用するかどうか [!DNL Experience Manager Assets] スキルを磨く場合は、5 つの主要な領域を詳しく掘り下げて、専門知識を強化することをお勧めします。 Adobeのエキスパートが基本を確認し、高度なインサイトを提供することで、すぐに実践できる実用的な次のステップを提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
@@ -29,13 +29,13 @@ DAM の設定と使用の基本。
 
 ## リソース
 
-* [[!DNL AEM Assets] ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja)
-* [ [!DNL AEM Assets]  フォルダー構造の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=ja)
-* [ [!DNL AEM Assets]  フォルダー権限の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=ja)
-* [コレクションを使用したアセットの整理と共有](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=ja)
-* [機械学習による視覚的に類似したアセットの検索](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=ja)
-* [動的検索ファセットによる正確で精度の高い検索結果の取得](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=ja)
-* [高度なフルテキスト検索構文](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=ja#using)
+* [[!DNL AEM Assets] ユーザーガイド](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
+* [ [!DNL AEM Assets]  フォルダー構造の設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [ [!DNL AEM Assets]  フォルダー権限の設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [コレクションを使用したアセットの整理と共有](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
+* [機械学習による視覚的に類似したアセットの検索](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [動的検索ファセットによる正確で精度の高い検索結果の取得](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [高度なフルテキスト検索構文](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## シリーズの録画
 

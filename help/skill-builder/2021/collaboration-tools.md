@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 8934
 exl-id: 50981e5d-fd1f-4ab8-9b58-d4b8df69d089
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '144'
-ht-degree: 100%
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+workflow-type: tm+mt
+source-wordcount: '143'
+ht-degree: 58%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] の基本
 
-この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。これには、Sites 管理機能および AEM 内でのデジタルアセット処理の基本事項が含まれます。このシリーズの後半部では、コンテンツを再利用して複数のチャネルにわたって配信することで、時間を節約し、効率を高めるのに役立つ機能を確認します。
+この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。このシリーズでは、基本的な概念と操作を紹介しながら、コンテンツのオーサリングの構成要素から始めます。 AEM内のデジタルアセットの管理機能と処理の基本について説明します。 シリーズの後半では、コンテンツを再利用して複数のチャネルに配信することで、時間を節約し、より効率的な機能を見つけます。
 
 ## 常に変化するコンテンツを容易に管理
 

@@ -1,15 +1,15 @@
 ---
-source-git-commit: 0e74aa727f7d4f874cfc1fc0cfc18a7c30d83e73
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 100%
+source-wordcount: '292'
+ht-degree: 56%
 
 ---
-# 投稿
+# Adobe Experience Manager Skill Builder ドキュメントへの投稿
 
-投稿ありがとうございます。
+Adobe Experience Manager Screens ドキュメントへの投稿にご協力いただきありがとうございます。アドビでは、Reader コミュニティ全体およびアドビ従業員からのコンテンツ投稿をお待ちしています。
 
-このプロジェクトに寄稿する際に従うガイドラインを次に示します。
+このファイルでは、投稿方法と、投稿時のガイドラインを説明します。
 
 ## 行動規範
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 寄稿者ガイドドキュメント
 
-[寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
+[寄稿者ガイド](https://experienceleague.adobe.com/ja/docs/contributor/contributor-guide/introduction)を参照してください。
 
 ## 質問がある場合
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 
 ## 投稿者使用許諾契約
 
-このプロジェクトへの第三者によるすべての投稿には、署名済みの投稿者使用許諾契約が含まれている必要があります。これにより、アドビはお客様の投稿をプロジェクトの一部として再配布できるようになります。[CLA に署名](http://opensource.adobe.com/cla.html)してください。アドビの CLA は一度提出するだけでよいので、以前に提出したことがある場合は、次へ進むことができます。
+署名済みの投稿者使用許諾契約は、このプロジェクトに対するすべてのサードパーティの投稿に添付する必要があります。 この契約書は、プロジェクトの一部としてコントリビューションを再配布する権限をAdobeに付与します。 [署名Adobeの CLA](https://opensource.adobe.com/cla.html). アドビの CLA は一度提出するだけでよいので、以前に提出したことがある場合は、次へ進むことができます。
 
 ## コードのレビュー
 
-提出はすべて、プル要求の形でおこなわれ、プロジェクトコミッターのレビューを受ける必要があります。プル要求の送信について詳しくは、[GitHub のプル要求に関するドキュメント](https://help.github.com/articles/about-pull-requests/)を参照してください。
+すべての送信は、プルリクエストの形式で行われる必要があります。 プロジェクト コミッターは送信をレビューします。 プル要求の送信について詳しくは、[GitHub のプル要求に関するドキュメント](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)を参照してください。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
@@ -38,8 +38,8 @@ submitting a pull request!
 
 ## 投稿者からコミッターへ
 
-コミュニティからの投稿を歓迎します。投稿者から一歩進んで、プロジェクトでの完全な書き込みアクセス権と発言権を持つコミッターになる場合は、プロジェクトに招待される必要があります。既存のコミッターは、招待が発行される前に（沈黙が承認を意味する）「怠惰な合意」を得る必要がある内部指名プロセスを採用しています。自分が適格であり、より深く関わっていきたいと思う方は、気兼ねなく既存のコミッターに相談してください。
+Adobeは地域社会からの貢献を歓迎する。 プロジェクトにおける完全な書き込み権限と音声を持つコミッターになるには、プロジェクトに招待される必要があります。 既存のコミッターは、招待状が発行される前に、内部の指名プロセスで、Lazy Consensus （沈黙は承認とみなす）方法でコンセンサスに到達する必要があります。 コミッターの資格を持ち、さらに関与したい場合は、既存のコミッターにお問い合わせください。
 
 ## セキュリティ上の問題
 
-セキュリティ上の問題は、この問題トラッカーで報告しないでください。代わりに、[アドビのセキュリティエキスパートに問題を提出](https://helpx.adobe.com/jp/security/alertus.html)してください。
+セキュリティ上の問題は、この問題トラッカーで報告しないでください。代わりに、 [Adobeセキュリティの専門家に問題を提起する](https://helpx.adobe.com/jp/security/alertus.html)

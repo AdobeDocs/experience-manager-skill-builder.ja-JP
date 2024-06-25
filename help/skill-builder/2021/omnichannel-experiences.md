@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8935
 exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '161'
-ht-degree: 100%
+source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 52%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] の基本
 
-この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。これには、Sites 管理機能および AEM 内でのデジタルアセット処理の基本事項が含まれます。このシリーズの後半部では、コンテンツを再利用して複数のチャネルにわたって配信することで、時間を節約し、効率を高めるのに役立つ機能を確認します。
+この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。このシリーズでは、基本的な概念と操作を紹介しながら、コンテンツのオーサリングの構成要素から始めます。 AEM内のデジタルアセットの管理機能と処理の基本について説明します。 シリーズの後半では、コンテンツを再利用して複数のチャネルに配信することで、時間を節約し、より効率的な機能を見つけます。
 
 ## どこでも使えるコンテンツ - オムニチャネルエクスペリエンスの実現
 
 >[!VIDEO](https://video.tv.adobe.com/v/336982/?quality=12&learn=on&hidetitle=true)
 
-1 つの中央環境から様々なチャネルにわたってエクスペリエンスを最適に実現する方法について説明します。
+1 つの一元的な環境から様々なチャネルに最適にエクスペリエンスを配信する方法を説明します。
 
 ## シリーズの録画
 

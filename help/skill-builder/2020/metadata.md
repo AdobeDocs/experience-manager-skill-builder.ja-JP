@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7339
 exl-id: 35b85f97-ffe4-43f9-98ae-dae0d36bae91
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 35%
 
 ---
 
 # メタデータ - Adobe [!DNL Experience Manager Assets] シリーズ
 
-この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用しましょう。Adobe [!DNL Experience Manager Assets] を初めて使用する実務担当者、または Adobe [!DNL Experience Manager Assets] をしばらく使用していて、既存のスキルを磨きたいと考えている場合、これはソリューションの最も重要な 5 つの領域を詳しく理解するのに理想的な方法です。アドビのエキスパートが基本事項を確認し、すぐに実行できる次のステップにつながる高度なインサイトも提供します。
+この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用しましょう。初心者からベテランユーザーまで、Adobeを総合的に探求します [!DNL Experience Manager Assets]の 5 つの必須機能は、ソリューションを実現するためのものです。 Adobeのエキスパートが基本を確認し、高度なインサイトを提供することで、すぐに実践できる実用的な次のステップを提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
@@ -29,12 +29,12 @@ ht-degree: 100%
 
 ## リソース
 
-*[メタデータスキーマを使用したアセットメタデータの管理](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=ja)
-*[メタデータスキーマの拡張](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=ja)
-*[カスケードメタデータを使用したメタデータオーサリングの最適化](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=ja)
-*[メタデータプロファイルを使用してアセットにメタデータの自動適用](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=ja)
-*[AEM メタデータスキーマ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=ja#administer)
-*[アセットメタデータの管理](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=ja#RegisteringacustomnamespacewithinAEM)
+*[メタデータスキーマを使用したアセットメタデータの管理](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
+*[メタデータスキーマの拡張](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[カスケードメタデータを使用したメタデータオーサリングの最適化](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[メタデータプロファイルを使用したアセットへのメタデータの自動適用](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[AEM メタデータスキーマ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[アセットメタデータの管理](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## シリーズの録画
 

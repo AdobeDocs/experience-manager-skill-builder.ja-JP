@@ -7,16 +7,14 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-manager-skill-builder.ja-JP
 index: true
-source-git-commit: 5998a04160775459f2b749773cf2576a75750744
+source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 96%
+source-wordcount: '39'
+ht-degree: 97%
 
 ---
 
 
 # 内部使用メタデータ
 
-metadata.md ファイルには、リポジトリ内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更するには、任意の TOC.md ファイル内で行います。
-
-**ソリューション**、**製品**、**タイプ**&#x200B;の有効な値のリストについては、[メタデータ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en)を参照してください。
+metadata.md ファイルには、リポジトリ内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更するには、任意の TOC.md ファイル内でそのように処理してください。

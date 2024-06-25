@@ -1,8 +1,8 @@
 ---
 user-guide-title: AEM スキルビルダー
 user-guide-description: ナレッジベースを構築し、Adobe  [!DNL Experience Manager] への投資を最大化する録画ウェビナーシリーズ。
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
+source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -12,15 +12,16 @@ ht-degree: 100%
 # AEM スキルビルダーの録画{#skill-builder}
 
 * [AEM スキルビルダーの録画](overview.md)
-* 2019年度 {#2019}
+
+* 2019年度 {#for-2019}
    * [ [!DNL Cloud Manager] を使用したベストプラクティスのテスト](./2019/cloud-manager-testing.md)
-* 2020年度 {#2020}
+* 2020年度 {#for-2020}
    * [[!DNL Asset Link]](./2020/asset-link.md)
    * [Brand Portal](./2020/brand-portal.md)
    * [[!DNL Dynamic Media]](./2020/dynamic-media.md)
    * [フォルダー構造と検索](./2020/folder-structure-search.md)
    * [メタデータ](./2020/metadata.md)
-* 2021年度 {#2021}
+* 2021年度 {#for-2021}
    * [オーサリングの基本事項](./2021/authoring-fundamentals.md)
    * [Media Library の管理](./2021/media-library-administration.md)
    * [共同作業 ツール](./2021/collaboration-tools.md)

@@ -1,6 +1,6 @@
 ---
 title: Web とその他 - 従来のヘッドレスコンテンツ管理の力
-description: 説明
+description: 従来の CMS フレームワークとヘッドレス CMS フレームワークが、コンテンツ管理とデジタルエクスペリエンス配信の未来をどのように形成しているかについて説明します。
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 8938
 exl-id: 86f2ce11-9603-4848-9626-46ed49ef821a
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 49%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] の基本
 
-この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。これには、Sites 管理機能および AEM 内でのデジタルアセット処理の基本事項が含まれます。このシリーズの後半部では、コンテンツを再利用して複数のチャネルにわたって配信することで、時間を節約し、効率を高めるのに役立つ機能を確認します。
+この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。このシリーズでは、基本的な概念と操作を紹介しながら、コンテンツのオーサリングの構成要素から始めます。 AEM内のデジタルアセットの管理機能と処理の基本について説明します。 シリーズの後半では、コンテンツを再利用して複数のチャネルに配信することで、時間を節約し、より効率的な機能を見つけます。
 
 ## Web とその他 - 従来のヘッドレスコンテンツ管理の力
 
