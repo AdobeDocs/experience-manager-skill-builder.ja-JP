@@ -13,15 +13,15 @@ type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
 source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
 # [!DNL Asset Link] - Adobe [!DNL Experience Manager Assets] シリーズ
 
-この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用してください。Adobeで初めて、または経験した [!DNL Experience Manager Assets]? その 5 つの主な機能を詳しく調べて、スキルを完璧に発揮してください。 専門知識を効率的に向上 Adobeのエキスパートが基本を確認し、高度なインサイトを提供することで、すぐに実践できる実用的な次のステップを提供します。
+この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用してください。Adobe [!DNL Experience Manager Assets] を初めて使用しますか、それとも習得したのですか？5 つの主な機能を詳しく調べて、スキルを磨きましょう。専門知識を効率的に高めましょう。アドビのエキスパートが基本事項を確認し、すぐに実行できる次のステップにつながる高度なインサイトも提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
@@ -29,7 +29,7 @@ ht-degree: 57%
 
 ## リソース
 
-* [Adobe  [!DNL Asset Link]  ビデオ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [Adobe  [!DNL Asset Link]  ビデオ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
 * [[!DNL Asset Link] （Adobe XD 用）](https://helpx.adobe.com/jp/enterprise/using/adobe-asset-link-for-xd.html)
 * [Adobe  [!DNL Asset Link] 用  [!DNL AEM Assets]  6.5 および 6.4 の設定](https://helpx.adobe.com/jp/enterprise/using/configure-aem-assets-6-for-asset-link.html)
 * [Adobe  [!DNL Asset Link] 用  [!DNL AEM as a Cloud Service]  の設定](https://helpx.adobe.com/jp/enterprise/using/configure-aem-assets-for-asset-link.html)

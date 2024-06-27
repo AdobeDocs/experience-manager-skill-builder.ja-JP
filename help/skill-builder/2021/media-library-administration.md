@@ -1,6 +1,6 @@
 ---
 title: コンテンツの検索に時間を無駄にしない
-description: 日常的なワークフローを合理化するための実践的なヒントを含むAEM Sites とMedia Libraryの詳細なガイドを使用して、オーサリング作業を強化します。
+description: 日常的なワークフローを合理化するための実践的なヒントを含む、AEM Sites と Media Library の詳細なガイドを使用して、オーサリング作業を強化します。
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -13,21 +13,21 @@ type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
 source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '175'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] の基本
 
-この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。このシリーズでは、基本的な概念と操作を紹介しながら、コンテンツのオーサリングの構成要素から始めます。 AEM内のデジタルアセットの管理機能と処理の基本について説明します。 シリーズの後半では、コンテンツを再利用して複数のチャネルに配信することで、時間を節約し、より効率的な機能を見つけます。
+この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。このシリーズでは、まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。これには、Sites 管理機能および AEM 内でのデジタルアセット処理の基本事項が含まれます。このシリーズの後半部では、コンテンツを再利用して複数のチャネルをまたいで配信することで、時間を節約し、効率を高めるのに役立つ機能を確認します。
 
 ## コンテンツの検索に時間を無駄にしない
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-AEM Sites とMedia Library管理 UI を使用したジャーニーでオーサリングのスキルを引き上げると、日々の生産性を向上させる効果的な戦略を利用できます。
+日々の生産性を向上させる効果的な戦略を備えた AEM Sites と Media Library 管理 UI を使用すると、オーサリングのスキルを向上させることができます。
 
 ## シリーズの録画
 
