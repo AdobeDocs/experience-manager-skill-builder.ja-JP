@@ -2,10 +2,10 @@
 title: スキルビルダーの概要
 description: ナレッジベースを構築し、Adobe Experience Manager への投資を最大化する録画ウェビナーシリーズ
 exl-id: 2aa648cc-6a44-4d1d-98ab-a351abc80b6b
-source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
-workflow-type: ht
+source-git-commit: ea51ea7b5b0a3ff1160d418c524471c0a60359ca
+workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -18,11 +18,11 @@ Adobe [!DNL Experience Manager] スキルビルダーの録画ホームへよう
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-skill-builder/skill-builder/2020/asset-link">
+    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/for-2020/asset-link">
       <img alt="[!DNL Asset Link]" src="assets/332127.jpeg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-skill-builder/skill-builder/2020/asset-link">
+      <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/for-2020/asset-link">
     <strong>[!DNL Asset Link]</strong>
     </a>
     </div>
@@ -31,11 +31,11 @@ Adobe [!DNL Experience Manager] スキルビルダーの録画ホームへよう
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-skill-builder/skill-builder/2020/brand-portal">
+    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/for-2020/brand-portal">
     <img alt="Brand Portal" src="assets/332133.jpeg" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-skill-builder/skill-builder/2020/brand-portal">
+    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/for-2020/brand-portal">
     <strong>Brand Portal</strong>
     </a>
     </div>
@@ -44,11 +44,11 @@ Adobe [!DNL Experience Manager] スキルビルダーの録画ホームへよう
     </p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-skill-builder/skill-builder/2020/dynamic-media">
+    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/for-2020/dynamic-media">
       <img alt="[!DNL Dynamic Media]" src="assets/332132.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/ja/docs/experience-manager-skill-builder/skill-builder/2020/dynamic-media">
+      <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/for-2020/dynamic-media">
         <strong>[!DNL Dynamic Media]</strong>
       </a>
     </div>
