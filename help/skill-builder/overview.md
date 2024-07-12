@@ -3,7 +3,7 @@ title: スキルビルダーの概要
 description: ナレッジベースを構築し、Adobe Experience Manager への投資を最大化する録画ウェビナーシリーズ
 exl-id: 2aa648cc-6a44-4d1d-98ab-a351abc80b6b
 source-git-commit: ea51ea7b5b0a3ff1160d418c524471c0a60359ca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 

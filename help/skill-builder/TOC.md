@@ -2,7 +2,7 @@
 user-guide-title: AEM スキルビルダー
 user-guide-description: ナレッジベースを構築し、Adobe  [!DNL Experience Manager] への投資を最大化する録画ウェビナーシリーズ。
 source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 

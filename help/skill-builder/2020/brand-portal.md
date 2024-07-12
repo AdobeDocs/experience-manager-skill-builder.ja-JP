@@ -13,7 +13,7 @@ type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
 source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
