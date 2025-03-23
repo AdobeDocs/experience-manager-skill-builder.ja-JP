@@ -1,5 +1,5 @@
 ---
-title: 「[!DNL Asset Link]」
+title: '[!DNL Asset Link]'
 description: Adobe Creative Cloud に対するネイティブ接続。
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager
@@ -8,12 +8,12 @@ feature: Adobe [!DNL Asset Link]
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
-workflow-type: tm+mt
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 

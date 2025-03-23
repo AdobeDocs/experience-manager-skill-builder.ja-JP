@@ -8,12 +8,12 @@ feature: Adobe [!DNL Asset Link]
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
-workflow-type: tm+mt
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+workflow-type: ht
 source-wordcount: '175'
 ht-degree: 100%
 

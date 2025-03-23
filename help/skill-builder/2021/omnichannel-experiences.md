@@ -8,12 +8,12 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8935
 exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
-source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
-workflow-type: tm+mt
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+workflow-type: ht
 source-wordcount: '160'
 ht-degree: 100%
 

@@ -8,12 +8,12 @@ feature: Brand Portal
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
-workflow-type: tm+mt
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 
