@@ -1,10 +1,10 @@
 ---
 title: '[!DNL Dynamic Media]'
 description: すべてのチャネルと画面のアセット出力の自動化
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
-feature: "[!DNL Dynamic Media Classic]"
+feature: Dynamic Media Classic
 topic: Content Management
 role: User
 level: Beginner
@@ -12,16 +12,16 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '193'
 ht-degree: 100%
 
 ---
 
 # [!DNL Dynamic Media]- Adobe [!DNL Experience Manager Assets] シリーズ
 
-この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用してください。Adobe [!DNL Experience Manager Assets] の専門知識を発見または磨き上げるには、5 つの重要な機能を重点的に深く掘り下げ、熟練度への近道を学びましょう。アドビのエキスパートが基本事項を確認し、すぐに実行できる次のステップにつながる高度なインサイトも提供します。
+この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用してください。 Adobe [!DNL Experience Manager Assets] の専門知識を発見または磨き上げるには、5 つの重要な機能を重点的に深く掘り下げ、熟練度への近道を学びましょう。 アドビのエキスパートが基本事項を確認し、すぐに実行できる次のステップにつながる高度なインサイトも提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 

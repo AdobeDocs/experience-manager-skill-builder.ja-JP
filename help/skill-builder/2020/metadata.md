@@ -1,7 +1,7 @@
 ---
 title: メタデータ
 description: 明確な戦略を設定して検出性を最適化
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Metadata
@@ -12,16 +12,16 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: 35b85f97-ffe4-43f9-98ae-dae0d36bae91
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '193'
 ht-degree: 100%
 
 ---
 
 # メタデータ - Adobe [!DNL Experience Manager Assets] シリーズ
 
-この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用しましょう。このセッションでは、初心者からベテランユーザー向けに、ソリューションを実現させるための Adobe [!DNL Experience Manager Assets] の 5 つの必須機能を包括的に説明します。アドビのエキスパートが基本事項を確認し、すぐに実行できる次のステップにつながる高度なインサイトも提供します。
+この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用しましょう。 このセッションでは、初心者からベテランユーザー向けに、ソリューションを実現させるための Adobe [!DNL Experience Manager Assets] の 5 つの必須機能を包括的に説明します。 アドビのエキスパートが基本事項を確認し、すぐに実行できる次のステップにつながる高度なインサイトも提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 

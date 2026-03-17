@@ -1,7 +1,7 @@
 ---
 title: 常に変化するコンテンツを容易に管理
 description: Experience Manager 作成者の共同作業ツールについて説明します
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring
@@ -12,16 +12,16 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8934
 exl-id: 50981e5d-fd1f-4ab8-9b58-d4b8df69d089
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '147'
 ht-degree: 100%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] の基本
 
-この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。このシリーズでは、まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。これには、Sites 管理機能および AEM 内でのデジタルアセット処理の基本事項が含まれます。このシリーズの後半部では、コンテンツを再利用して複数のチャネルをまたいで配信することで、時間を節約し、効率を高めるのに役立つ機能を確認します。
+この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。 このシリーズでは、まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。 これには、Sites 管理機能および AEM 内でのデジタルアセット処理の基本事項が含まれます。 このシリーズの後半部では、コンテンツを再利用して複数のチャネルをまたいで配信することで、時間を節約し、効率を高めるのに役立つ機能を確認します。
 
 ## 常に変化するコンテンツを容易に管理
 
