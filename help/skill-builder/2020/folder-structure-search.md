@@ -30,11 +30,11 @@ DAM の設定と使用の基本。
 ## リソース
 
 * [[!DNL AEM Assets] ユーザーガイド](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/assets)
-* [フォルダー構造  [!DNL AEM Assets]  設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [設定  [!DNL AEM Assets]  フォルダー権限](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [ [!DNL AEM Assets]  フォルダー構造の設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [ [!DNL AEM Assets]  フォルダー権限の設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [コレクションを使用したアセットの整理と共有](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/search-and-discovery/collections)
-* [機械学習による視覚的に類似したアセットの検索](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [動的検索ファセットを使用した正確で正確な検索結果の取得](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [マシンラーニングで類似したアセットを検索](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [動的な検索ファセットによる、正確かつ正確な検索結果の取得](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/search-and-discovery/search)
 * [高度なフルテキスト検索構文](https://experienceleague.adobe.com/ja/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## シリーズの録画
