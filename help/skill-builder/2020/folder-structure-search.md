@@ -30,8 +30,8 @@ DAM の設定と使用の基本。
 ## リソース
 
 * [[!DNL AEM Assets] ユーザーガイド](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/assets/assets)
-* [ [!DNL AEM Assets]  フォルダー構造の設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [ [!DNL AEM Assets]  フォルダー権限の設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [&#x200B; [!DNL AEM Assets]  フォルダー構造の設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [&#x200B; [!DNL AEM Assets]  フォルダー権限の設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [コレクションを使用したアセットの整理と共有](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [マシンラーニングで類似したアセットを検索](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/search-and-discovery/search)
 * [動的な検索ファセットによる、正確かつ正確な検索結果の取得](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/search-and-discovery/search)
