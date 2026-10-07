@@ -12,7 +12,7 @@ ht-degree: 73%
 * [AEM Skill Builder の録画](overview.md)
 
 * 2019 {#for-2019}
-  * [ [!DNL Cloud Manager] を使用したベストプラクティスのテスト](./2019/cloud-manager-testing.md)
+  * [&#x200B; [!DNL Cloud Manager] を使用したベストプラクティスのテスト](./2019/cloud-manager-testing.md)
 * 2020 {#for-2020}
   * [[!DNL Asset Link]](./2020/asset-link.md)
   * [Brand Portal](./2020/brand-portal.md)
