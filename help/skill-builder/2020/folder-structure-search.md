@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 83%
-
 ---
-
 # フォルダー構造と検索 - Adobe [!DNL Experience Manager Assets] シリーズ
 
 この 5 部構成のウェビナーシリーズを使用してナレッジベースを構築し、Adobe [!DNL Experience Manager Assets] への投資を最大限に活用しましょう。 Adobe [!DNL Experience Manager Assets] を初めて使用する場合でも、スキルを磨いている場合でも、5 つの主要な領域を詳しく掘り下げて、専門知識を強化することをお勧めします。 アドビのエキスパートが基本事項を確認し、すぐに実行できる次のステップにつながる高度なインサイトも提供します。

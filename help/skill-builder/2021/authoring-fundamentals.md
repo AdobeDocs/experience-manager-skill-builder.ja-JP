@@ -12,13 +12,24 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8945
 exl-id: cc4b57a5-c76a-48fa-9c05-39374081fc45
-source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+feature_v2:
+  - id: f59890ff-de81-47d5-9ef8-7ab2dd10c6c3
+    internal-label: Authoring and publishing content
+  - id: e2c1b6d3-bb7e-4fe8-8c72-f7b403298e91
+    internal-label: Authoring
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
-
 ---
-
 # Adobe [!DNL Experience Manager Sites] の基本
 
 この 5 部構成のウェビナーシリーズでは、Adobe Experience Manager で豊かで魅力的な顧客体験を作成する方法について説明します。 このシリーズでは、まず、コンテンツオーサリングの構成要素から始め、基本的な概念や操作について紹介します。 これには、Sites 管理機能および AEM 内でのデジタルアセット処理の基本事項が含まれます。 このシリーズの後半部では、コンテンツを再利用して複数のチャネルをまたいで配信することで、時間を節約し、効率を高めるのに役立つ機能を確認します。
